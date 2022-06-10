@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ccoates1375 and will be graduating in May 2022 with a B.A. in Computer Science and a minor in Web Development.
+- 👋 Hi, I’m @ccoates1375 and Im a recent graduate of RIC with a B.A. in Computer Science and a minor in Web Development. Currently seeking opportunities.
 - 👀 I’m interested in Blockchain technology, software engineering, web design & development.
-- 🌱 I’m currently learning Relational Databases and SQL.
+- 🌱 I’m currently learning Relational Databases and SQL as well as AI.
 - 💞️ I’m looking to collaborate on Blockchain projects and music.
 - 📫 Check out my website and sign up to become a member at Provbeats.com
 
