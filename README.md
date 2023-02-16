@@ -11,7 +11,7 @@ Recently, I completed a Stanford Online Relational Databases and SQL certificate
 
 <h2>Creative Side</h2>
 <p>
-In addition to my technical skills, I have creative vision and always looking for ways to express myself through coding and music. If you're interested, check out my other website <a href="https://ProvBeats.com" rel="author">ProvBeats.com</a>, which I created with WiX. I am also looking for feedback on it and am prepared to rewrite it from scratch, so any help is appreciated. I also built a high-performing website for international jazz saxophonist <a href="https://gregabate.com" rel="author">GregAbate.com</a>.
+In addition to my technical skills, I have creative vision and always looking for ways to express myself through coding and music. If you're interested, check out my other website <a href="https://ProvBeats.com" rel="author">ProvBeats.com</a>, which I created with WiX. I am also looking for feedback on it and prepared to rewrite it from scratch, so any help is appreciated. I also built a high-performing website for international jazz saxophonist <a href="https://gregabate.com" rel="author">GregAbate.com</a>.
 </p>
 
 <h2>Portfolio</h2>
