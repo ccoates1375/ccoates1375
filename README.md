@@ -16,5 +16,5 @@ In addition to my technical skills, I have creative vision and always looking fo
 
 <h2>Portfolio</h2>
 <p>
-As a technology enthusiast, I have a strong drive to continually learn and develop my skills. My areas of interest include software testing, web design, and development, with a particular focus on AI and blockchain. I am actively seeking opportunities to apply my knowledge and expertise in these fields. If you are hiring, please take a moment to explore my portfolio website, ChrisCoates.dev, which I created using HTML and CSS. I am excited about the possibility of joining a dynamic team and contributing my skills to meaningful projects.
+As a technology enthusiast, I have a strong drive to continually learn and develop my skills. My areas of interest include software testing, web design, and development, with a particular focus on AI and blockchain. I am actively seeking opportunities to apply my knowledge and expertise in these fields. If you are hiring, please take a moment to explore my portfolio website, <a href="https://chriscoates.dev" rel="author">ChrisCoates.dev</a>, which I created using HTML and CSS. I am excited about the possibility of joining a dynamic team and contributing my skills to meaningful projects.
 </p>
