@@ -1,8 +1,3 @@
-
-
-<main>
-<article>
-
 <h1>Welcome To My Github Profile!</h1>
 
 <p>
@@ -23,6 +18,3 @@ In addition to my technical skills, I have creative vision and always looking fo
 <p>
 I am a technology enthusiast with a passion for learning and growing my skills in the fields of AI and blockchain. As a software testing, web design and development enthusiast, I am seeking opportunities to put my knowledge into practice. If you're hiring, check out my portfolio website <a href="https://chriscoates.dev" rel="author">ChrisCoates.dev</a>, which I built from scratch using HTML & CSS. Looking forward to joining a great team!
 </p>
-	
-</article>
-</main>
