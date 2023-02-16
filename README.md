@@ -1,37 +1,4 @@
 
-<head>			
-<style>
-
-body{
-	background-color:black;
-}
-a{
-	color:lightblue;
-}
-a:hover{
-	font-weight: bold;
-}
-a:visited{
-	color:white;
-}
-main {
-	 display:grid;
-}
-article {
-	color: white;
-	margin: 25px;
-	align-content: center;
-  	padding: 10px;
-  	width: 85%;
- 	height: 90%;
-	border: thin solid lightblue;
-	border-radius: 2px; 
-}
-article p {
-	font-size: 1.1em;
-}	
-</style>
-</head>
 
 <main>
 <article>
