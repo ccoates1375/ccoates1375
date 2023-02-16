@@ -1,16 +1,61 @@
-Welcome to my Github Profile!
 
-I'm @ccoates1375, a recent graduate from Rhode Island College with a B.A. in Computer Science and a minor in Web Development. Member of Upsilon Pi Epsilon Honor Society, Information Security Club and one of the founding members of Software Engineering Club. Completed a Stanford Online Relational Databases and SQL certificate course through EdX.org. I have a passion for technology and eager to continue growing my skills in the craft. Currently exploring the fields of AI and Blockchain as well as studying for ISTQB Software Testing Certification. 
+<head>			
+<style>
 
-In addition to my technical skills, I also have a creative side and am always looking for opportunities to collaborate on projects. If you're interested, help me out by giving feedback on my other website https://ProvBeats.com. I created it with WiX but I'm prepared to rewrite it from scratch and would love the help of others in the process. I also built a high performing website for international jazz saxophonist https://GregAbate.com
+body{
+	background-color:black;
+}
+a{
+	color:lightblue;
+}
+a:hover{
+	font-weight: bold;
+}
+a:visited{
+	color:white;
+}
+main {
+	 display:grid;
+}
+article {
+	color: white;
+	margin: 25px;
+	align-content: center;
+  	padding: 10px;
+  	width: 85%;
+ 	height: 90%;
+	border: thin solid lightblue;
+	border-radius: 2px; 
+}
+article p {
+	font-size: 1.1em;
+}	
+</style>
+</head>
 
-As a software testing and web design & development enthusiast, I am seeking opportunities to put my knowledge into practice. If you're hiring, check out my portfolio website I built from scratch using HTML & CSS.
-https://ChrisCoates.dev
+<main>
+<article>
 
-Let's work together and make some amazing things happen!
+<h1>Welcome To My Github Profile!</h1>
 
+<p>
+Currently, I am exploring the exciting fields of AI and Blockchain, while also studying for the ISTQB Software Testing Certification. As a member of the Upsilon Pi Epsilon Honor Society and the Information Security Club, as well as one of the founding members of the Software Engineering Club, I am always looking for opportunities to collaborate with others on new and exciting projects.
+</p>
 
-<!---
-ccoates1375/ccoates1375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Education</h2>
+<p>
+Recently, I completed a Stanford Online Relational Databases and SQL certificate course through EdX.org. I also have a Bachelor's degree in Computer Science and a minor in Web Development.
+</p>
+
+<h2>Creative Side</h2>
+<p>
+In addition to my technical skills, I have creative vision and always looking for ways to express myself through coding and music. If you're interested, check out my other website <a href="https://ProvBeats.com" rel="author">ProvBeats.com</a>, which I created with WiX. I am also looking for feedback on it and am prepared to rewrite it from scratch, so any help is appreciated. I also built a high-performing website for international jazz saxophonist <a href="https://gregabate.com" rel="author">GregAbate.com</a>.
+</p>
+
+<h2>Portfolio</h2>
+<p>
+I am a technology enthusiast with a passion for learning and growing my skills in the fields of AI and blockchain. As a software testing, web design and development enthusiast, I am seeking opportunities to put my knowledge into practice. If you're hiring, check out my portfolio website <a href="https://chriscoates.dev" rel="author">ChrisCoates.dev</a>, which I built from scratch using HTML & CSS. Looking forward to joining a great team!
+</p>
+	
+</article>
+</main>
